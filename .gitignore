@@ -1,0 +1,6 @@
+.idea
+*.iml
+target
+.DS-Store
+test-output
+
